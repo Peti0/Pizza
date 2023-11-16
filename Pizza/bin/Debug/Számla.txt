@@ -1,0 +1,2 @@
+Bankkártya opció lett kiválasztva.
+System.Windows.Forms.ListBox, Items.Count: 2, Items[0]: Frutti di Mare, ára: 1350 Ft - 2 db
